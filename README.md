@@ -18,7 +18,7 @@ Alejandro, Frank, Claudia, Enrique Pardo , Martina
 
 Para ello hemos calculado:
 
-    -Media , moda , mediana, desviación típica
+-> Media , moda , mediana, desviación típica
     
     -Cuartiles , percemtiles
     
