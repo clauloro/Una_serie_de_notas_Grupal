@@ -1,7 +1,7 @@
 # Una serie de notas grupal
 
 ## Integrantes del grupo: 
-Alejandro, Frank, Claudia, Enrique Pardo , Martina
+Alejandro, Frank, Claudia, Enrique Pardo , Martina.
 
 ## Link repositorio: 
 [Github: https://github.com/clauloro/Una_serie_de_notas_Grupal.git]
