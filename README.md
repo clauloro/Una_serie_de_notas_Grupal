@@ -20,11 +20,11 @@ Para ello hemos calculado:
 
 -> Media , moda , mediana, desviación típica
     
-    -Cuartiles , percemtiles
+-> Cuartiles , percemtiles
     
-    -Rango intercuartílico
+-> Rango intercuartílico
     
-    -Gráficas
+-> Gráficas
     
     ....
         
