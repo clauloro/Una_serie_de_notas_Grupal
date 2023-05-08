@@ -1,6 +1,7 @@
 # Una serie de otas grupal
 
 Integrantes del grupo: Alejandro, Frank, Claudia,Enrique Pardo , Martina
+
 Link repositorio: https://github.com/clauloro/Una_serie_de_notas_Grupal.git
 ## Ejercicio 
     Realizar un aálisis de estas notas , indetificando las medidas estadísticas más relevantes y los datos más dispersos:
