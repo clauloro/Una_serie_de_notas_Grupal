@@ -26,7 +26,7 @@ Para ello hemos calculado:
     
 -> Gráficas
     
-    ....
+....
         
 
  
